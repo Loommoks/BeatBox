@@ -11,6 +11,7 @@ public class BeatBox {
     Sequence sequence;
     Track track;
     JFrame theFrame;
+    //First Commit Test
 
     String[] instrumentsNames = {"Bass Drum", "Closed Hi-Hat", "Open Hi-Hat", "Acoustic Share", "Crash Cymbal", "Hand Clap",
     "High Tom", "Hi Bongo", "Maracas", "Whistle", "Low Conga", "Cowbell", "Vibraslap", "Low-mid Tom", "High Agogo", "Open Hi Conga"};
